@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ICS Generator//NONSGML ICS Generator//DE
+BEGIN:VEVENT
+UID:1769582849787-ypv40lf?@ics-generator.de
+DTSTAMP:20260128T065015Z
+DTSTART:20260212T080000
+DTEND:20260212T090000
+SUMMARY:Download des Masternets
+DESCRIPTION:Heute geht das neue Masternet von Euromaster an den Start. Klicke einfach auf den folgenden Link: https://masternet.euromaster.de und lade dir die neue Masternet-App runter.
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT30M
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
